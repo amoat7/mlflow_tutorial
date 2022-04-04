@@ -1,0 +1,3 @@
+pytest
+pytest-dependency
+importlib_metadata==4

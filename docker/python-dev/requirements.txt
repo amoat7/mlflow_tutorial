@@ -1,0 +1,9 @@
+black
+flake8
+pylint
+pylint-fail-under
+pytest
+pytest-dependency
+rope
+tox
+importlib_metadata==4

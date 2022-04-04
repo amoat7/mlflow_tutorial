@@ -1,0 +1,5 @@
+pandas-datareader
+importlib_metadata==4
+xgboost==1.4.0
+tensorflow==2.5.0
+hyperopt
