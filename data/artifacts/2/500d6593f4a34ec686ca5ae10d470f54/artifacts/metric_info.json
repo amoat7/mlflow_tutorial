@@ -1,0 +1,6 @@
+{
+  "f1_score-2_X_test-2": "f1_score(y_true=y_test, y_pred=y_pred, pos_label=None, average='macro')",
+  "f1_score-3_X_test-3": "f1_score(y_true=y_test, y_pred=y_pred, pos_label=None, average='macro')",
+  "f1_score-4_X_test-4": "f1_score(y_true=y_test, y_pred=y_pred, pos_label=None, average='macro')",
+  "f1_score_X_test": "f1_score(y_true=y_test, y_pred=y_pred, pos_label=None, average='macro')"
+}
